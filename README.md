@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am new to tech and coding.
 
- 🌱 I’m currently learning about Software Development with the Tech Academy. I love it so far.
+ 🌱 I have completed 960 hours of coursework and study of Software Development with the Tech Academy. 
  
  😄 Pronouns: She/her
  
